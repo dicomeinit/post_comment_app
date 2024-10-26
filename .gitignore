@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+
+__pycache__
+venv/
+.venv
+.env
+
+*.sqlite3
+*.sqlite
+
+.coverage
+htmlcov/
+.ruff_cache/
